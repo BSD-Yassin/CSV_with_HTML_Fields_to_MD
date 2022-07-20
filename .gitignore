@@ -1,0 +1,29 @@
+__pycache__/csv_formatter.cpython-310.pyc
+test_folder/test.csv
+test_folder/test.html
+main_parser.py
+db_files/database_backup_pageLinks.csv
+db_files/database_backup_pages.csv
+db_files/database_backup_settings.csv
+db_files/database_backup_storage.csv
+db_files/database_backup_table.csv
+db_files/database_backup_userGroups.csv
+db_files/database_backup_users.csv
+db_files/database_backup.csv
+db_files/database_wiki_users.csv
+output_folder/Amazon Courses - Summarized.md
+output_folder/Ansible_Getting_started.md
+output_folder/Bash Commands.md
+output_folder/Bash Monitoring.md
+output_folder/Bash Scripting.md
+output_folder/Docker-Swarm-Kubernetes.md
+output_folder/Docker.md
+output_folder/Dockerfiles.md
+output_folder/Linux-root.md
+output_folder/Podman.md
+output_folder/Powershell_101.md
+output_folder/Projects .md
+output_folder/Subnetting.md
+output_folder/TCP-IP.md
+output_folder/Tech-Talk : Table-of-content.md
+output_folder/Virtualization.md
