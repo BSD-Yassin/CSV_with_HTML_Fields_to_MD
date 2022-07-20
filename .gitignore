@@ -1,3 +1,4 @@
+.gitignore
 __pycache__/csv_formatter.cpython-310.pyc
 test_folder/test.csv
 test_folder/test.html
